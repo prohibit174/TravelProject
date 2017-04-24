@@ -10,6 +10,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-pull 이 왜 안되는가....
+
 </body>
 </html>
